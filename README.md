@@ -9,10 +9,6 @@ Welcome to the official repository of this CAFE-WEBSITE, a modern, responsive, a
 - 🖼️ **Gallery** showing cafe interiors and events
 - 📱 **Responsive Design** (Mobile & Desktop friendly)
 
-### Prerequisites
-
-- Node.js & npm (if using backend)
-- Git
 
 ### Installation
 
