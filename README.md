@@ -9,6 +9,8 @@ Welcome to the official repository of this CAFE-WEBSITE, a modern, responsive, a
 - 🖼️ **Gallery** showing cafe interiors and events
 - 📱 **Responsive Design** (Mobile & Desktop friendly)
 
+- CHECKOUT THE WEBSITE: https://ics-cafe.netlify.app/
+
 
 ### Installation
 
